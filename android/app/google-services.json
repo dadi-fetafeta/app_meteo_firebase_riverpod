@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265891256267",
+    "project_id": "apimeteo-27e5c",
+    "storage_bucket": "apimeteo-27e5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265891256267:android:f5441f250786d03a2ac84e",
+        "android_client_info": {
+          "package_name": "com.palmertechnologia.test_api_meteo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnzOuCv7PZAA-8OiWJ9O9PUpbjSu44Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
